@@ -1,0 +1,7 @@
+*.out
+Amstrong
+Armstrong_with_functions
+*.json
+*yml
+Amstrong.dSYM/Contents/Info.plist
+Armstrong_with_functions.dSYM/Contents/Info.plist
